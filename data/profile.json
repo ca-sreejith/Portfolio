@@ -1,6 +1,6 @@
 {
   "name": { "first": "CA", "last": "Sreejith", "full": "CA Sreejith" },
-  "email": "sreejith@example.com",
+  "email": "ca.sreejith@yahoo.com",
   "tagline": "Delivering financial clarity, compliance, and strategic advisory with integrity and precision.",
   "description": "Chartered Accountant offering expert services in taxation, audit, and financial advisory across India and worldwide.",
   "roles": {
@@ -23,12 +23,12 @@
   "experience": [
     {
       "id": 1,
-      "role": "Proprietor & Principal Consultant",
-      "company": "Independent CA Practice",
-      "companyShort": "CA PRACTICE",
+      "role": "Articled Assistant",
+      "company": "Praveen Narayan & Associates",
+      "companyShort": "PnA",
       "type": "Full-time",
       "location": "Kerala, India",
-      "period": "2020",
+      "period": "2023",
       "periodEnd": "Present",
       "bullets": [
         "Running an independent chartered accountancy practice serving SMEs, NRIs, and high-net-worth individuals across Kerala and pan-India.",
@@ -41,13 +41,13 @@
     },
     {
       "id": 2,
-      "role": "Senior Audit Associate",
-      "company": "CA Firm",
+      "role": "Audit Associate",
+      "company": "Shameer and Associates",
       "companyShort": "CA FIRM",
       "type": "Full-time",
       "location": "Kerala, India",
-      "period": "2017",
-      "periodEnd": "2020",
+      "period": "2022",
+      "periodEnd": "2023",
       "bullets": [
         "Led statutory and internal audit assignments for banking, manufacturing, and real estate clients.",
         "Supervised a team of article clerks and managed client relationships end-to-end.",
@@ -57,25 +57,7 @@
       "desc": "Led audit assignments for banking, manufacturing and real estate clients. Supervised article clerks and managed GST compliance post-rollout.",
       "tech": ["Statutory Audit", "Tax Audit", "Bank Audit", "GST", "Team Leadership"]
     },
-    {
-      "id": 3,
-      "role": "Article Clerk",
-      "company": "ICAI Articleship Training",
-      "companyShort": "ICAI",
-      "type": "Articleship",
-      "location": "Kerala, India",
-      "period": "2014",
-      "periodEnd": "2017",
-      "bullets": [
-        "Completed mandatory 3-year articleship under a practicing CA firm gaining hands-on experience.",
-        "Worked on income tax return filing, financial statement preparation, and ROC compliance.",
-        "Assisted in statutory and internal audit assignments across various industries.",
-        "Gained practical exposure to Tally ERP, accounting standards, and company law."
       ],
-      "desc": "3-year ICAI articleship with hands-on exposure to auditing, tax return filing, company law, and financial reporting.",
-      "tech": ["Tally ERP", "Financial Statements", "ITR Filing", "ROC Compliance", "Audit"]
-    }
-  ],
   "projects": [
     {
       "id": 1,
