@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "clarity",
+    "freelanceNote": "Available for individuals, businesses & NRI clients.",
+    "availableLabel": "Available for work",
+    "pills": ["Tax Advisor", "Audit Expert", "GST Specialist", "ICAI Member"],
+    "specialistStat": { "value": "CA + ICAI", "label": "Certified" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Years\nexperience", "Clients\nserved", "ICAI\ncertified"]
+  },
+  "footer": {
+    "eyebrow": "Available for consultations",
+    "ctaLines": ["Bringing clarity to", "your finances,", "compliance &"],
+    "ctaAccent": "growth."
+  }
+}
